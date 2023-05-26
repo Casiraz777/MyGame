@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyGame</string>
+    <string name="start">Старт</string>
+    <string name="exit">Выход</string>
+    <string name="ans">Ответ</string>
+    <string name="points">Счет</string>
+    <string name="time">Время</string>
+    <string name="about">Информация</string>
+    <string name="scores">Таблица результатов</string>
+    <string name="aboutgame">При совершениии 3 ошибок или по истечению времени игра заканчивается.</string>
+    <string name="aboutdiff">В игре есть 3 уровня \n1. сложение/вычитание двух слагаемых. \n2. сложение/вычитание трех слагаемых. \n3. умножение/деление двух слагаемых.</string>
+
+
+</resources>
